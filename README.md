@@ -8,6 +8,11 @@ In this project, I looked at the reviews for Outdoors items sold on Amazon. From
 - From those reviews, there were a total of 56 5-Star Reviews from Vine members and 21005 5-Star Reviews from Non-Vine members. 
 - The percentage of both Vine reviews and Non-Vine reviews that were 5 star ratings were roughly 50%, Vine Reviews = 52.3% and Non-Vine Reviews = 52.7%. 
 
+![Yes Vine Results](https://user-images.githubusercontent.com/75765653/113513667-78a54d00-9530-11eb-97c0-75407d249d12.PNG)
+-------------------------------------------------------------------------------------------------------------------------------
+![Non-Vine Results](https://user-images.githubusercontent.com/75765653/113513660-74792f80-9530-11eb-9f8f-411ae3fd17bb.PNG)
+-------------------------------------------------------------------------------------------------------------------------------
+
 ### Summary
 From my analysis, I found that there was no major bias between 5-star reviews given by Amazon Vine members compared to those that were not Amazon Vine members, so the cost associated with sending Vine members incentives may not be worth the investment. As stated in the results, out of all of the total reviews, about 50% of those were 5-star reviews, regardless of vine membership. 
 
